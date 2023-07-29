@@ -1,0 +1,44 @@
+.set_size {
+
+	  width: 100%;
+  	  height: 300px;
+  	  filter: blur(2px);
+
+}
+.rata-font {
+
+	text-align: justify;
+}
+
+.size {
+
+	width: 50px;
+}
+
+.kontent {
+
+	width: 100%;
+	height: 120px;
+	
+}
+.kiri {
+
+	width: 25%;
+	height: 120px;
+	float: left;
+	margin-left: 5%;
+}
+.kanan {
+
+	width: 50%;
+	height: 120px;
+	float: left;
+	margin-left: 2%;
+}
+
+.gambar {
+
+	width: 150px;
+	margin-top: 1%;
+	float: right;
+}
